@@ -1,3 +1,5 @@
+## Titanic-Survival-Prediction-Data-Cleaning-EDA
+
 ## 📊 Dataset  
 - **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)  
 - **File used:** `train.csv`  
@@ -88,3 +90,5 @@ print("- Females had higher survival rates than males.")
 print("- Passengers in 1st class had higher chances of survival.")
 print("- Younger passengers had slightly better survival rates.")
 print("- Family size (SibSp + Parch) impacted survival chances.")
+
+
